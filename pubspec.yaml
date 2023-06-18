@@ -1,5 +1,5 @@
 name: webviewimage
-description: A new Flutter package project.
+description: A Flutter plugin that provides a WebView widget to image_network.
 version: 0.0.3
 homepage: https://github.com/gabrielpatricksouza/webviewimage
 
