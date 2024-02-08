@@ -1,11 +1,8 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:webviewimage/src/utils/utils.dart';
 
 import 'package:webviewimage/src/view/interface.dart' as view_interface;
 import 'package:webviewimage/src/controller/interface.dart' as ctrl_interface;
-
-import 'package:webviewimage/src/view/impl/mobile.dart' as mobile;
 
 /// IO implementation
 ///
@@ -128,7 +125,7 @@ class WebViewX extends StatelessWidget implements view_interface.WebViewX {
 
   @override
   Widget build(BuildContext context) {
-    return mobile.WebViewX(
+    return WebViewX(
       key: key,
       initialContent: initialContent,
       initialSourceType: initialSourceType,
