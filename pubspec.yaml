@@ -2,7 +2,7 @@ name: webviewimage
 description: A Flutter plugin that provides a WebView widget to image_network.
 version: 0.0.5
 homepage: https://github.com/gabrielpatricksouza/webviewimage
-publish_to: "none"
+publish_to: none
 
 environment:
   sdk: ">=2.15.1 <4.0.0"
