@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-pointer_interceptor=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pointer_interceptor-0.10.1\\
-pointer_interceptor_ios=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pointer_interceptor_ios-0.10.0+2\\
-pointer_interceptor_web=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pointer_interceptor_web-0.10.1+2\\
-webview_flutter=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\webview_flutter-4.5.0\\
-webview_flutter_android=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\webview_flutter_android-3.15.0\\
-webview_flutter_wkwebview=C:\\Users\\gabri\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\webview_flutter_wkwebview-3.12.0\\
+pointer_interceptor=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/pointer_interceptor-0.10.1/
+pointer_interceptor_ios=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/pointer_interceptor_ios-0.10.0+2/
+pointer_interceptor_web=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/pointer_interceptor_web-0.10.2/
+webview_flutter=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/webview_flutter-4.7.0/
+webview_flutter_android=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/webview_flutter_android-3.15.0/
+webview_flutter_wkwebview=/Users/nemoryoliver/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.12.0/
